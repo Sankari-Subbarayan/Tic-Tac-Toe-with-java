@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/Tic-Tac-Toe with AI (Java)/task/build/
+/Tic-Tac-Toe with AI (Java)/task/out/
+/Tic-Tac-Toe with AI (Java)/task/out/production/classes/
+/Topics/Abstract class/Calculating areas of rectangles and circles/out/
+/Topics/Abstract class/Calculating areas of rectangles and circles/out/production/classes/
+/Topics/Abstract class/IntBinaryOperation/out/
+/Topics/Abstract class/IntBinaryOperation/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Random class/Find the seed/out/
+/Topics/Random class/Find the seed/out/production/classes/
+/util/build/
