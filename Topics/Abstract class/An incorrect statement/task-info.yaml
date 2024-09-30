@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "By default, all methods in abstract class have access modifier \"public\"\
+    ."
+  - text: A class can extend only one abstract class.
+  - text: Non-abstract classes can't contain abstract methods.
+  - text: An abstract class can't have default methods.
+  - text: It's impossible to create an instance of abstract class.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2118#comment
+status: Solved
+record: -1
+local_check: false
